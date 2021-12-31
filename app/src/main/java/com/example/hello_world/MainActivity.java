@@ -53,8 +53,8 @@ public class MainActivity extends AppCompatActivity {
                 textView.setTextColor(getResources().getColor(R.color.black));
 
                 // 3. Reset the background color
-                // original background color - R.color.light_purple
-                findViewById(R.id.parent).setBackgroundColor(getResources().getColor(R.color.light_purple));
+                // original background color - R.color.light_pink
+                findViewById(R.id.parent).setBackgroundColor(getResources().getColor(R.color.light_pink));
             }
         });
 
