@@ -4,7 +4,7 @@
 Change display settings (background, custom text, etc.) on a simple app.
 
 ### App Walk-through
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://im5.ezgif.com/tmp/ezgif-5-5830d40626.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
