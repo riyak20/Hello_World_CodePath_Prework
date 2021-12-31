@@ -4,8 +4,7 @@
 Change display settings (background, custom text, etc.) on a simple app.
 
 ### App Walk-through
-<img src="https://im5.ezgif.com/tmp/ezgif-5-5830d40626.gif" width=200><br>
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="hhttps://imgur.com/OIlUiwi.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
