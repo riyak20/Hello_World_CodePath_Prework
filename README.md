@@ -3,7 +3,7 @@
 ### App Description
 Change display settings (background, custom text, etc.) on a simple app.
 
-### App Walk-though
+### App Walk-through
 <img src="YOUR_GIF_URL_HERE" width=200><br>
 
 ### Required User Stories
