@@ -45,8 +45,8 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.parent).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                // 1. Reset the text to "Hello from Riya" id - @id/text
-                textView.setText("Hello from Riya");
+                // 1. Reset the text to "Hello from Riya!" id - @id/text
+                textView.setText("Hello from Riya!");
 
                 // 2. Reset the color of the text to original color
                 // original text color - black, text id - @id/text
