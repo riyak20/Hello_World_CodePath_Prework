@@ -4,7 +4,7 @@
 Change display settings (background, custom text, etc.) on a simple "Hello World" app.
 
 ### App Walk-through
-<img src="https://media.giphy.com/media/U9xp2ygV1xTmFvgV0u/giphy-downsized-large.gif" width=200><br>
+<img src="https://media.giphy.com/media/BZqHLrfrZMISKKbr6S/giphy-downsized-large.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
