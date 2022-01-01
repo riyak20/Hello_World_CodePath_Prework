@@ -1,9 +1,11 @@
 ## Hello_World
 
 ### App Description
-Change display settings (background, custom text, etc.) on a simple app.
+Change display settings (background, custom text, etc.) on a simple "Hello World" app.
 
 ### App Walk-through
+*This gif was created used the app display on an actual phone screen*
+<img src="https://media.giphy.com/media/BZqHLrfrZMISKKbr6S/giphy-downsized-large.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
